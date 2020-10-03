@@ -3,8 +3,7 @@
 ![Screenshot of the game](https://raw.githubusercontent.com/Sagyam/Battle-Tank/main/sample.jpeg)
 
 ## About
-This repository contains my implementation of the [Unity Tanks! Tutorial game](https://unity3d.com/learn/tutorials/s/tanks-tutorial) in [Unreal Engine](https://www.unrealengine.com/), the engine behind the popular game [Fortnite](http://fortnite.com/). 
-I am writing the game predominantly in C++, using blueprint subclassing where it's easier. The goal of this project is to illustrate the methods for creating a shared local multiplayer game in Unreal Engine, and to provied a common project for comparing Unity and Unreal.
+This repository contains my LITE-2019 winning game Battle Tank. It was made with Unreal Engine using blueprint and C++. 
 
 ## Requirements:
 Software
